@@ -1,4 +1,4 @@
-body {background-color: #3efaf7itext-align: justify;font-size: 18px;}
+body {background-color: #3efaf7i; text-align: justify;font-size: 18px;}
 h1 {  text-aling: center;background-color: #f0eb68 ;color: #173138; }
 h3 { text-aling: justify;color:  #17313B; }
 b {color: rgb(40, 175, 228); font-size: 18px; }
